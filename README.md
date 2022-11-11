@@ -1,4 +1,2 @@
-# CoinEd
- hosted on
- 
- https://coined-ad4f9.web.app
+# CoinBain
+Hosted on: https://coined-ad4f9.web.app
